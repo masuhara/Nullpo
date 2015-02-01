@@ -1,1 +1,1 @@
-![Alt Text](https://drive.google.com/?tab=wo&authuser=0#folders/0B4S8QAZ1uzglV2ZaUGg1eHRMTzg)
+![Alt Text](https://lh4.googleusercontent.com/LFwZs1MeyhfmQobNQeNMRBy-DWBfk9eolJYYueaeG_ZB0bmUTCT6nSxrM14ZuNENQ3-eWTA8RTM=w1261-h615)
