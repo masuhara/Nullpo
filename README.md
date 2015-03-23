@@ -2,8 +2,7 @@
 
 ## 何これ?(What)
 
-ぬるぽくんがオープンソースになったよ！
-いいのができたら、まっすーにプルリクエスト！
+ぬるぽくんがオープンソースになったよ！いいのができたら、プルリクエストを送ってみよう！
 > This is Null-Po repository.
 Null-Po repo is Open-source.
 Why don’t you use it ?
