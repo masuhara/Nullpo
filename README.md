@@ -8,7 +8,7 @@
 Null-Po repo is Open-source.
 Why don’t you use it ?
 
-![Alt Text](null.jpg)
+![Alt Text](nullpo-basic.jpg)
 
 ## 使い方(Usage)
 
