@@ -13,7 +13,7 @@ Why don’t you use it ?
 
 1. GitHub右上の「Fork」を押して自分のリポジトリを作成
 2. ターミナルからぬるぽリポジトリをclone
-3. 画像をいじったら、コミットしてGithubにpush
+3. 画像をいじったら、コミットしてGitHubにpush
 4. 最後に、pull requestを送ってぬるぽレポジトリのコミッターになろう!
 
 > 1. Push Fork button and create your Repo.
