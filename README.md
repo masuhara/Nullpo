@@ -39,3 +39,7 @@ $ git push origin master
 ## ONJ(@MinervaP)
 
 ![ONJ](/images/onj/ONJ.jpg)
+
+## 妖怪のせいなのね(@puzzeljp)
+
+![YOUKAI](/images/nullpo/nullpo-yokai.jpg)
